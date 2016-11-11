@@ -1,0 +1,2 @@
+del *.stl
+del *.png

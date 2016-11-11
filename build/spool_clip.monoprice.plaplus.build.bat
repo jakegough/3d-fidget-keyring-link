@@ -1,0 +1,1 @@
+openscad.build.cmd "..\src\spool_clip.monoprice.plaplus.scad"
